@@ -1,5 +1,5 @@
 #!/bin/bash
-#script to wrap steam for actual physical cores only
+# Script to wrap steam for actual physical cores only
 
 # Ubuntu 22.04
 
